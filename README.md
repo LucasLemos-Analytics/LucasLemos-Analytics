@@ -1,78 +1,136 @@
-👋 Olá, eu sou o Lucas!
+<h1 align="center">👋 Olá, eu sou o Lucas!</h1>
 
-🎯 Em transição para a área de Análise de Dados
-📚 Estudante de Sistemas de Informação (2º semestre)
+🎯 Em transição para a área de Análise de Dados<br>
+📚 Estudante de Sistemas de Informação (2º semestre)<br>
 🎓 Formado em Técnico em Desenvolvimento de Sistemas
+<hr>
 
----
+<h2 align="left">
+<br>
+🧑‍💻 Sobre mim
+</h2>
 
-🚀 Sobre mim
+ 
+<p>
+Em transição para a área de dados, estou desenvolvendo habilidades técnicas voltadas à análise, manipulação e visualização de informações.
+Tenho focado meus estudos em SQL, Excel, Power BI e modelagem de dados, com o objetivo de transformar dados em insights relevantes para tomada de decisão.
+Sou certificado em Neo4j e venho aprofundando meus conhecimentos por meio de projetos práticos, buscando aprimorar continuamente minhas habilidades e minha capacidade analítica.
+</p>
+<hr>
+<br>
 
-Sou apaixonado por tecnologia e estou construindo minha carreira na área de dados.
-Tenho me dedicado a aprender e aplicar conceitos de análise, modelagem e visualização de dados através de estudos e projetos práticos.
+<h2 align="left">⚙️ Tecnologias e Ferramentas</h2>
 
-Mesmo sem experiência profissional ainda, estou focado em desenvolver habilidades para atuar como Analista de Dados.
 
----
+<h3 align="center">📊 Análise e Visualização</h3>
 
-🧠 Tecnologias e Ferramentas
+<p align="center">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="70"/>
+</p>
+<p align="center">
+  <b>Power BI</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Excel</b> 
+</p>
 
-📊 Análise e Visualização de Dados
+<br>
+<table align="center" style="border-collapse: collapse; border: none;">
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/>---
+<td align="center" style="border: none; padding: 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70"/><br>
+  <b>SQL Server</b>
+</td>
 
-🗄️ Banco de Dados
+<td align="center" style="border: none; padding: 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/><br>
+  <b>MySQL</b>
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>---
+<td align="center" style="border: none; padding: 0;">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/><br>
+  <b>Modelagem de Dados</b>
+</td>
 
-💻 Outros Conhecimentos
+</tr>
+</table>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>---
+<hr> 
 
-📂 Projetos em Destaque
+<h2 align="left">📂 Projetos em Destaque</h2>
 
-<table>
-<tr><td width="33%" valign="top"><div style="border:1px solid #30363d; padding:15px; border-radius:10px;"><img src="https://via.placeholder.com/300x150.png?text=Projeto+SQL" width="100%"/>📊 Análise de Vendas com SQL
+<table width="100%">
+<tr>
 
-Análise exploratória de dados utilizando SQL para gerar insights de negócio.
+<td width="33%" valign="top">
 
-<br>"SQL" (https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
 
-<br>👉 "Ver projeto" (https://github.com/seu-usuario/analise-vendas-sql)
+### 📊 Análise de Vendas com SQL
 
-</div></td><td width="33%" valign="top"><div style="border:1px solid #30363d; padding:15px; border-radius:10px;"><img src="https://via.placeholder.com/300x150.png?text=Power+BI" width="100%"/>📈 Dashboard Financeiro no Power BI
+Análise exploratória de dados de vendas utilizando consultas SQL para gerar insights de negócio.
 
-Dashboard interativo com indicadores financeiros.
+<img src="https://img.shields.io/badge/SQL-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Análise_de_Dados-green?style=flat-square"/>
 
-<br>"Power BI" (https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+<br><br>
 
-<br>👉 "Ver projeto" (https://github.com/seu-usuario/dashboard-powerbi-financeiro)
+🔗 <a href="#">Ver projeto</a>
 
-</div></td><td width="33%" valign="top"><div style="border:1px solid #30363d; padding:15px; border-radius:10px;"><img src="https://via.placeholder.com/300x150.png?text=Excel" width="100%"/>📑 Análise de Dados com Excel
+</td>
 
-Análise e tratamento de dados com foco em insights.
+<td width="33%" valign="top">
 
-<br>"Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+<img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
 
-<br>👉 "Ver projeto" (https://github.com/seu-usuario/analise-dados-excel)
+### 📈 Dashboard Financeiro
 
-</div></td></tr>
-</table>---
+Dashboard interativo com indicadores financeiros e visualizações para tomada de decisão.
 
-🎯 Objetivo
+<img src="https://img.shields.io/badge/Power_BI-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL-purple?style=flat-square"/>
 
+<br><br>
+
+🔗 <a href="#">Ver projeto</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
+
+### 📑 Análise com Excel
+
+Estudo de dados utilizando Excel com foco em organização, tratamento e análise.
+
+<img src="https://img.shields.io/badge/Excel-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Análise_de_Dados-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fórmulas-gray?style=flat-square"/>
+
+<br><br>
+
+🔗 <a href="#">Ver projeto</a>
+
+</td>
+
+</tr>
+</table>
+
+<br><hr><br>
+
+<h2 align="left">🎯 Objetivo</h2>
+
+<p>
 Busco minha primeira oportunidade na área de dados para aplicar meus conhecimentos, aprender com profissionais experientes e gerar valor através de dados.
+</p>
 
----
+<br><hr><br>
 
-📫 Contato
-
-- 💼 LinkedIn: (coloque aqui)
-- 📧 Email: (opcional)
-
----
-
-⭐ Obrigado por visitar meu perfil!
+<h3 align="center">⭐ Obrigado por visitar meu perfil!</h3>
