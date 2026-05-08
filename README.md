@@ -40,11 +40,12 @@ Sou certificado em Neo4j e venho aprofundando meus conhecimentos por meio de pro
 <br>
 
 <h3 align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="35"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/17939/17939260.png" width="25"/>
   Banco de Dados
 </h3>
 
 <br>
+
 <table align="center" style="border-collapse: collapse; border: none;">
 <tr>
 
@@ -67,6 +68,7 @@ Sou certificado em Neo4j e venho aprofundando meus conhecimentos por meio de pro
 </table>
 
 <hr> 
+<br>
 
 <h2 align="left">📂 Projetos em Destaque</h2>
 
