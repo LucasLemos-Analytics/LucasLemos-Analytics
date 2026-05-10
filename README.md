@@ -83,6 +83,19 @@ Sou certificado em Neo4j e venho aprofundando meus conhecimentos por meio de pro
 <hr> 
 <br>
 
+<h2 align="left">🎓 Certificações</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="100"/>
+</p>
+
+<p align="center">
+  <b>Neo4j Certified Professional</b>
+</p>
+
+<hr>
+<br>
+
 <h2 align="left">📂 Projeto em Destaque</h2>
 
 <table width="100%">
