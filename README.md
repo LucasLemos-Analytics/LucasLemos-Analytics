@@ -21,107 +21,86 @@ Sou certificado em Neo4j e venho aprofundando meus conhecimentos por meio de pro
 
 <h2 align="left">⚙️ Tecnologias e Ferramentas</h2>
 
-
 <h3 align="center">📊 Análise e Visualização</h3>
 
 <p align="center">
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="65"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="65"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="65"/>
 </p>
+
 <p align="center">
   <b>Power BI</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Excel</b> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Excel</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>DAX</b>
 </p>
 
 <br>
 
 <h3 align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/17939/17939260.png" width="25"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/17939/17939260.png" width="25"/>
   Banco de Dados
 </h3>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>
+</p>
+
+<p align="center">
+  <b>SQL Server</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MySQL</b>
+</p>
+
 <br>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-<tr>
+<h3 align="center">🧠 Fundamentos em Dados</h3>
 
-<td align="center" style="border: none; padding: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70"/><br>
-  <b>SQL Server</b>
-</td>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="65"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="65"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="65"/>
+</p>
 
-<td align="center" style="border: none; padding: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/><br>
-  <b>MySQL</b>
-</td>
-
-<td align="center" style="border: none; padding: 0;">
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/><br>
+<p align="center">
   <b>Modelagem de Dados</b>
-</td>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>ETL</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Análise de Dados</b>
+</p>
 
-</tr>
-</table>
+<br>
 
 <hr> 
 <br>
 
-<h2 align="left">📂 Projetos em Destaque</h2>
+<h2 align="left">📂 Projeto em Destaque</h2>
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" width="70%" style="border-radius:10px;"/>
 
-### 📊 Análise de Vendas com SQL
+### 📊 Análise de Dados com SQL — Loja Simulada
 
-Análise exploratória de dados de vendas utilizando consultas SQL para gerar insights de negócio.
+Projeto de análise de dados com SQL aplicado a uma base simulada de vendas.
 
-<img src="https://img.shields.io/badge/SQL-red?style=flat-square"/>
+Inclui consultas para cálculo de métricas de faturamento, identificação de produtos mais vendidos e análise do comportamento dos clientes, com foco na geração de insights para tomada de decisão.
+
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Análise_de_Dados-green?style=flat-square"/>
-
-<br><br>
-
-🔗 <a href="#">Ver projeto</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
-
-### 📈 Dashboard Financeiro
-
-Dashboard interativo com indicadores financeiros e visualizações para tomada de decisão.
-
 <img src="https://img.shields.io/badge/Power_BI-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/DAX-blueviolet?style=flat-square"/>
-<img src="https://img.shields.io/badge/ETL-purple?style=flat-square"/>
-
-<br><br>
-
-🔗 <a href="#">Ver projeto</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
-
-### 📑 Análise com Excel
-
-Estudo de dados utilizando Excel com foco em organização, tratamento e análise.
-
 <img src="https://img.shields.io/badge/Excel-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Análise_de_Dados-darkgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fórmulas-gray?style=flat-square"/>
 
 <br><br>
 
