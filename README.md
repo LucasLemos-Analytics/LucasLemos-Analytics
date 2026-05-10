@@ -132,15 +132,15 @@ Inclui consultas para cálculo de métricas de faturamento, identificação de p
 Busco minha primeira oportunidade na área de dados para aplicar meus conhecimentos, aprender com profissionais experientes e gerar valor através de dados.
 </p>
 
-<br><hr><br>
+<hr>
 
-<h3 align="right">🔗 Conecte-se comigo</h3>
+<h3 align="center">🔗 Conecte-se comigo</h3>
 
-<p align="right">
+<p align="center">
   <a href="https://www.linkedin.com/in/lucas-silva-77484b353/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="">
       <img src="https://cdn-icons-png.flaticon.com/512/5909/5909151.png" width="40"/>
   </a>
