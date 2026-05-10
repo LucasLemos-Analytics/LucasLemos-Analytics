@@ -134,4 +134,18 @@ Busco minha primeira oportunidade na área de dados para aplicar meus conhecimen
 
 <br><hr><br>
 
+<h3 align="right">🔗 Conecte-se comigo</h3>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/lucas-silva-77484b353/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="">
+      <img src="https://cdn-icons-png.flaticon.com/512/5909/5909151.png" width="40"/>
+  </a>
+</p>
+
+<hr>
+
 <h3 align="center">⭐ Obrigado por visitar meu perfil!</h3>
